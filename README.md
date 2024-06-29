@@ -30,7 +30,7 @@ Este projeto visa criar uma presença online profissional e eficaz, facilitando 
 - [LinkedIn](https://www.linkedin.com/in/felipe-almeida-2092a21b1/)
 - [Twitter](https://x.com/felipesal0)
 - [Instagram](https://www.instagram.com/felipesal)
-- [Wakatime] (https://wakatime.com/@felipesal)
+- [Wakatime](https://wakatime.com/@felipesal)
 
 ## 📫 Contato
 
