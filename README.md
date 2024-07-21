@@ -12,6 +12,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por aprender 
 ## 📂 Projetos
 
 Aqui estão alguns dos meus projetos:
+### [TranslatorApp](https://github.com/felipealmeida92/TranslatorApp)
+TranslatorApp é um aplicativo web desenvolvido em Ruby on Rails que permite aos usuários traduzir textos de um idioma para outro usando uma API de tradução. O projeto foi criado para demonstrar a integração com APIs externas e a criação de uma interface de usuário interativa.
 
 ### [Myfinance-web](https://github.com/felipealmeida92/myfinance-web-o4-dotnet)
 O projeto MyFinanceWeb replica uma gestão financeira dos gastos, com receitas e despesas de quem o opera. É possível realizar as ações de adicionar, editar ou excluir operações financeiras e organizar a gestão, através de transações, categorias e tipos das contas.
