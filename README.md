@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Sou Felipe Almeida, desenvolvedor apaixonado 
 
 - **Programação:** Ruby, TypeScript, SQL (MySQL)
 - **Desenvolvimento Web:** HTML, CSS, JavaScript, Angular, NestJS
-- **Banco de Dados:** MySQL
+- **Banco de Dados:** PostgreSQL
 - **Outros:** Lógica de Programação, Inglês
 
 ## 📂 Projetos
