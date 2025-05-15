@@ -1,17 +1,15 @@
 # Olá, eu sou Felipe Almeida 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por aprender novas tecnologias e resolver problemas através da programação. Atualmente, estou focado em melhorar minhas habilidades em diversas áreas da tecnologia.
+Bem-vindo ao meu perfil no GitHub! Sou Felipe Almeida, desenvolvedor apaixonado por resolver problemas através da programação e sempre em busca de novas habilidades.
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **Programação:** Ruby, SQL (MySQL)
-- **Desenvolvimento Web:** HTML, CSS, JavaScript
+- **Programação:** Ruby, TypeScript, SQL (MySQL)
+- **Desenvolvimento Web:** HTML, CSS, JavaScript, Angular, NestJS
 - **Banco de Dados:** MySQL
 - **Outros:** Lógica de Programação, Inglês
 
 ## 📂 Projetos
-
-Aqui estão alguns dos meus projetos:
 
 ### [Myfinance-web](https://github.com/felipealmeida92/myfinance-web-o4-dotnet)
 O projeto MyFinanceWeb replica uma gestão financeira dos gastos, com receitas e despesas de quem o opera. É possível realizar as ações de adicionar, editar ou excluir operações financeiras e organizar a gestão, através de transações, categorias e tipos das contas.
@@ -25,7 +23,9 @@ Estou desenvolvendo uma página de vendas focada na apresentação de serviços 
 - Contato: Links diretos para redes sociais e e-mail, facilitando a comunicação.
 - Formulário de Interesse: Um formulário simples e intuitivo para que os visitantes possam expressar interesse em contratar os serviços, fornecendo seus dados de contato e uma breve descrição de suas necessidades.
 
-Este projeto visa criar uma presença online profissional e eficaz, facilitando o engajamento e a conversão de visitantes em clientes.## 🌐 Redes Sociais
+Este projeto visa criar uma presença online profissional e eficaz, facilitando o engajamento e a conversão de visitantes em clientes.
+
+## 🌐 Redes Sociais
 
 - [LinkedIn](https://www.linkedin.com/in/felipe-almeida-2092a21b1/)
 - [Twitter](https://x.com/felipesal0)
@@ -34,7 +34,7 @@ Este projeto visa criar uma presença online profissional e eficaz, facilitando 
 
 ## 📫 Contato
 
-Você pode me encontrar nas redes sociais acima ou enviar um e-mail para: felipe.si.almeida@gmail.com
+felipe.si.almeida@gmail.com
 
 ---
 
